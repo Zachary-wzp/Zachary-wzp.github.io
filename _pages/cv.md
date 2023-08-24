@@ -9,34 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+* Download English CV
+* 下载中文简历
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Eng. in Smart Builing, Tianjin University, 2024 (expected)
+* B.Eng. in Civil Engineering, Hefei University of Technology, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.12 to 2023.06: Intern, Economic & Technology Research Institute of State Grid Shandong Electric Power Company
+* 2022.07 to 2022.09: Intern, China Railway Design Corporation
+* 2021.06 to 2021.09: Intern, Longfor Group Holdings Limited
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI applications in built environment
+* High-performance building envelopes
+* Building performance simulation
+* CFD in built environment
+* Machine Learning
+* Time series prediction
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
