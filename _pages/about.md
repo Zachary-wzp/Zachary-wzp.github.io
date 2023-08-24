@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- I am a graduate student in [Smart Building](http://tiei.tju.edu.cn/) at Tianjin University, supervised by Prof. [Juanli Guo](http://t-arch.tju.edu.cn/info/2143/1125.htm) of the [Tianjin Key Laboratory of Architectural Physics and Environmental Technology](http://arch.tju.edu.cn/info/1233/1810.htm). I received my B.Eng. degree in [College of Civil Engineering](http://civil.hfut.edu.cn/) at Hefei University of Technology supervised by Prof. [Yalin Zhu](http://civil.hfut.edu.cn/2021/0407/c8385a261299/page.htm) in 2017.
+- I am proficient in EnergyPlus, Rhino & Grasshopper, MATLAB and Python, and related building simulations, and have some experience in CFD with COMSOL Multiphysics.
+- My current research interest is on building simulation and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
+- I have published 3 journal papers, and have 2 more journal papers and 1 invention patent in the review stage. Meanwhile, I have won several competitions. I expect to graduate in June 2024 and am looking for a Ph.D. position to further my studies!
 
-A data-driven personal website
+Recent news
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
