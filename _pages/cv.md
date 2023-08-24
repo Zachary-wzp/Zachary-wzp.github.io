@@ -34,22 +34,14 @@ Research interests
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Guo, J., **Wang, Z.**, Li, M. and Jin, Y. Uncertainty quantification and sensitivity analysis of energy consumption in substation buildings at the planning stage, Journal of Building Performance Simulation. (2022) 1–19. https://doi.org/10.1080/19401493.2022.2141881.
+* Guo, J., **Wang, Z.**, Jin, Y., Li, M., and Chen, Q. Predicting and extracting thermal behavior rules of hydronic thermal barrier with interpretable ensemble learning in the heating season, Energy and Buildings. (Under Review, co-first author)
+* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, Building and Environment. (Under Review)
   
-Talks
+Selected Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Second Prize,  THE 19TH CHINA POST-GRADUATEMATHEMATICAL CONTEST IN MODELING, 2022
+* Third Prize, Awarded Works from International SolarBuilding Design Competition 2022, 2023
+* Academic scholarships, Tianjin University, 2021, 2022
+* Academic scholarships, Hefei University of Technology, 2018, 2019, 2020
+* Outstanding Graduates, Hefei University of Technology, 2021
