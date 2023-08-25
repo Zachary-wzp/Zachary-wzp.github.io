@@ -44,4 +44,4 @@ Selected Awards
 * Third Prize, International Solar Building Design Competition 2022, 2023
 * Academic scholarships, Tianjin University, 2021, 2022
 * Academic scholarships, Hefei University of Technology, 2018, 2019, 2020
-* Outstanding Graduates, Hefei University of Technology, 2021
+* Outstanding Graduate, Hefei University of Technology, 2021
