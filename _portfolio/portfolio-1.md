@@ -11,3 +11,7 @@ National Key R & D Program of China Sub-project, 2019YFD1101004
 * Design the overall route to energy efficiency in buildings.
 * Participate in the design of demonstration projects (Application of building technology).
 * Conduct building performance simulations based on Grasshopper (Ladgbug & Honeybee).
+
+<img src='/images/portfolios/NKDP/NKDP_1.PNG' width='600'>
+<img src='/images/portfolios/NKDP/NKDP_2.PNG' width='600'>
+<img src='/images/portfolios/NKDP/NKDP_3.PNG' width='600'>
