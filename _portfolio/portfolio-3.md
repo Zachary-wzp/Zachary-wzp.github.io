@@ -22,4 +22,5 @@ National Grid Corporation Science and Technology Project, 5200-202216099A-1-1-ZN
 <img src='/images/portfolios/NGCSTP/NGCSTP_2.jpg' width='600'>
 <img src='/images/portfolios/NGCSTP/HGCSTP_3.PNG' width='600'>
 <img src='/images/portfolios/NGCSTP/HGCSTP_4.PNG' width='600'>
+
 <img src='/images/portfolios/NGCSTP/NGCSTP_5.png' width='600'>
