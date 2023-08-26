@@ -10,7 +10,7 @@ China Railway Design Corporation
 ## Project contribution
 * Field research. Test Physical Environment.
 * Analyze the impact of the atrium on the indoor physical environment (Temperature, Humidity, Illumination).
-* Conduct building performance simulations based on Grasshopper (Ladgbug & Honeybee) to compare with measured results.
+* Conduct building performance simulations based on Grasshopper (Ladybug & Honeybee) to compare with measured results.
 * Propose design improvements based on measurements and simulation analysis results.
 
 <img src='/images/portfolios/GXN.PNG' width='600'>
