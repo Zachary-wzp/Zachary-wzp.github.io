@@ -12,3 +12,5 @@ Tianjin Natural Science Foundation, 18JCQNJC08200
 * Conduct building performance simulations based on Grasshopper (Ladgbug & Honeybee).
 * Implement multi-objective optimization based on Grasshopper (Octopus).
 * Perform correlation analysis utilizing SPSS.
+
+<img src='/images/portfolios/TNSF.png' width='600'>
