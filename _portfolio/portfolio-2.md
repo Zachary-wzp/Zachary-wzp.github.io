@@ -9,7 +9,7 @@ Tianjin Natural Science Foundation, 18JCQNJC08200
 
 ## Project Contribution
 * Field research.
-* Conduct building performance simulations based on Grasshopper (Ladgbug & Honeybee).
+* Conduct building performance simulations based on Grasshopper (Ladybug & Honeybee).
 * Implement multi-objective optimization based on Grasshopper (Octopus).
 * Perform correlation analysis utilizing SPSS.
 
