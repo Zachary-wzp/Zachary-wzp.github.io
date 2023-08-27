@@ -18,6 +18,8 @@ National Grid Corporation Science and Technology Project, 5200-202216099A-1-1-ZN
 * Implement linear thermal transmittance sensitivity analysis and develop linear thermal transmittance prediction models based on machine learning (Python).
 * Develop green design evaluation system for substation based on AHP and FCE (MATLAB).
 
+<img src='/images/portfolios/NGCSTP/NGCSTP_6.png' width='600'>
+
 <img src='/images/portfolios/NGCSTP/NGCSTP_1.png' width='600'>
 
 <img src='/images/portfolios/NGCSTP/NGCSTP_2.jpg' width='600'>
