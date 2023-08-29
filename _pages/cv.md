@@ -28,7 +28,7 @@ Research interests
 * AI applications in built environment
 * High-performance building envelopes
 * Building performance simulation
-* CFD in built environment
+* Finite Element Simulation
 * Machine Learning
 * Time series prediction
 
