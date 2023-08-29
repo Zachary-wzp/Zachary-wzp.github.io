@@ -41,7 +41,7 @@ Selected Publications
 Selected Awards
 ======
 * Second Prize, The 19th China Post-graduate Mathematical Contest in Modeling, 2022
-* Third Prize, International Solar Building Design Competition 2022, 2023
+* Third Prize, 2022 International Solar Building Design Competition, 2023
 * Academic scholarships, Tianjin University, 2021, 2022
 * Academic scholarships, Hefei University of Technology, 2018, 2019, 2020
 * Outstanding Graduate, Hefei University of Technology, 2021
