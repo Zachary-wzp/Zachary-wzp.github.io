@@ -14,3 +14,7 @@ Tianjin Natural Science Foundation, 18JCQNJC08200
 * Perform correlation analysis utilizing SPSS.
 
 <img src='/images/portfolios/TNSF.png' width='600'>
+
+<img src='/images/portfolios/NGCSTP/HGCSTP_3.PNG' width='600'>
+
+<img src='/images/portfolios/NGCSTP/HGCSTP_4.PNG' width='600'>
