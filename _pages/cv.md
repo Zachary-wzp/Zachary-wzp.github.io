@@ -36,7 +36,7 @@ Selected Publications
 ======
 * Guo, J., **Wang, Z.**, Li, M. and Jin, Y. Uncertainty quantification and sensitivity analysis of energy consumption in substation buildings at the planning stage, Journal of Building Performance Simulation. (2022) 1–19. https://doi.org/10.1080/19401493.2022.2141881.
 * Guo, J., **Wang, Z.**, Jin, Y., Li, M., and Chen, Q. Predicting and extracting thermal behavior rules of hydronic thermal barrier with interpretable ensemble learning in the heating season, Energy and Buildings. (Under Review, Co-first Author)
-* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, Building and Environment. (Under Review)
+* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, Journal of Building Engineering. (Under Review)
   
 Selected Awards
 ======
