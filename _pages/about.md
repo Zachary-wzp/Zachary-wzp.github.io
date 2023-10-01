@@ -15,6 +15,7 @@ redirect_from:
 
 Recent news
 ======
+- $\color{#fe4a49}{Award:}$ I was granted the First-Class Academic Scholarship and selected as the Merit Student. (Sep, 2023)
 - $\color{#fe4a49}{Award:}$ Our team has won the third place in the [2022 International Solar Building Design Competition](https://isbdc.cn/) organized by Interational Solar Energy Society. (May, 2023)
 - $\color{#fe4a49}{Award:}$ I has won the second place in the [The 19th China Post-graduate Mathematical Contest in Modeling](https://cpipc.acge.org.cn//cw/detail/4/2c90801584d24a80018561061bb34b48) organized by The Chinese Society of Academic Degrees and Graduate Education. (Dec, 2022)
 - $\color{#fe4a49}{Award:}$ I was granted the First-Class Academic Scholarship and selected as the Merit Student. (Sep, 2022)
