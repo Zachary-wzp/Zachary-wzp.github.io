@@ -25,23 +25,25 @@ Work experience
   
 Research interests
 ======
-* AI applications in built environment
-* High-performance building envelopes
-* Building performance simulation
+* AI Applications in Built Environment
+* High-performance Building Envelopes
+* Building Performance Simulation
 * Finite Element Simulation
 * Machine Learning
-* Time series prediction
+* Deep Learning
+* Reinforcement Learning
 
 Selected Publications
 ======
-* Guo, J., **Wang, Z.**, Li, M. and Jin, Y. Uncertainty quantification and sensitivity analysis of energy consumption in substation buildings at the planning stage, Journal of Building Performance Simulation. (2022) 1–19. https://doi.org/10.1080/19401493.2022.2141881.
-* Guo, J., **Wang, Z.**, Jin, Y., Li, M., and Chen, Q. Predicting and extracting thermal behavior rules of hydronic thermal barrier with interpretable ensemble learning in the heating season, Energy and Buildings. (Accept, Co-first Author)
-* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, Journal of Building Engineering. (Under Review)
+* Guo, J., **Wang, Z.**, Jin, Y., Li, M., and Chen, Q. Predicting and extracting thermal behavior rules of hydronic thermal barrier with interpretable ensemble learning in the heating season, *Energy and Buildings* (2023), doi: https:/doi.org/10.1016/j.enbuild.2023.113699 (Co-first Author)
+* Guo, J., **Wang, Z.**, Li, M. and Jin, Y. Uncertainty quantification and sensitivity analysis of energy consumption in substation buildings at the planning stage, *Journal of Building Performance Simulation* (2022), doi: https://doi.org/10.1080/19401493.2022.2141881 (First Author in Students)
+* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, *Journal of Building Engineering* (2023, Under Review) (First Author in Students)
   
 Selected Awards
 ======
 * Second Prize, The 19th China Post-graduate Mathematical Contest in Modeling, 2022
 * Third Prize, 2022 International Solar Building Design Competition, 2023
+* Merit Student, Tianjin University, 2021, 2022, 2023
 * Academic scholarships, Tianjin University, 2021, 2022, 2023
 * Academic scholarships, Hefei University of Technology, 2018, 2019, 2020
 * Outstanding Graduate, Hefei University of Technology, 2021
