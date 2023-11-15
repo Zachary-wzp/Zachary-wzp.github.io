@@ -41,7 +41,7 @@ Selected Publications
   
 Selected Awards
 ======
-* Second Prize, The 20th China Post-graduate Mathematical Contest in Modeling, 2022
+* Second Prize, The 20th China Post-graduate Mathematical Contest in Modeling, 2023
 * Second Prize, The 19th China Post-graduate Mathematical Contest in Modeling, 2022
 * Third Prize, 2022 International Solar Building Design Competition, 2023
 * Merit Student, Tianjin University, 2021, 2022, 2023
