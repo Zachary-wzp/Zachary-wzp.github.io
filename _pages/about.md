@@ -11,7 +11,7 @@ redirect_from:
 - I am a graduate student in [Smart Building](http://tiei.tju.edu.cn/) at Tianjin University, supervised by Prof. [Juanli Guo](http://t-arch.tju.edu.cn/info/2143/1125.htm) of the [Tianjin Key Laboratory of Architectural Physics and Environmental Technology](http://arch.tju.edu.cn/info/1233/1810.htm). I received my B.Eng. degree in [College of Civil Engineering](http://civil.hfut.edu.cn/) at Hefei University of Technology supervised by Prof. [Yalin Zhu](http://civil.hfut.edu.cn/2021/0407/c8385a261299/page.htm) in 2021.
 - I am proficient in EnergyPlus, Rhino & Grasshopper, MATLAB and Python, and related building simulations, and have some experience in FEM with COMSOL Multiphysics.
 - My current research interest is on building simulation and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
-- I have published 4 journal papers, and have 2 more journal papers and 2 invention patent in the review stage. Meanwhile, I have won several competitions. I expect to graduate in June 2024 and am looking for a Ph.D. position to further my studies!
+- I have published 5 journal papers, and have 2 more journal papers and 2 invention patent in the review stage. Meanwhile, I have won several competitions. I expect to graduate in June 2024 and am looking for a Ph.D. position to further my studies!
 
 Recent news
 ======
