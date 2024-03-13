@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2021.09 to 2024.06: Research Assistant, 
+* 2021.09 to 2024.06: Research Assistant, Tianjin Key Laboratory of Architectural Physics and Environmental Technology
 * 2022.12 to 2023.06: Intern, Economic & Technology Research Institute of State Grid Shandong Electric Power Company
 * 2022.07 to 2022.09: Intern, China Railway Design Corporation
 * 2021.06 to 2021.09: Intern, Longfor Group Holdings Limited
@@ -42,10 +42,10 @@ Selected Publications
   
 Selected Awards
 ======
-* Second Prize, The 20th China Post-graduate Mathematical Contest in Modeling, 2023
-* Second Prize, The 19th China Post-graduate Mathematical Contest in Modeling, 2022
+* Second Prize (Top 4%), The 20th China Post-graduate Mathematical Contest in Modeling, 2023
+* Second Prize (Top 8%), The 19th China Post-graduate Mathematical Contest in Modeling, 2022
 * Third Prize, 2022 International Solar Building Design Competition, 2023
-* Merit Student, Tianjin University, 2021, 2022, 2023
+* Merit Student (Top 6%), Tianjin University, 2021, 2022, 2023
 * Academic scholarships, Tianjin University, 2021, 2022, 2023
 * Academic scholarships, Hefei University of Technology, 2018, 2019, 2020
 * Outstanding Graduate, Hefei University of Technology, 2021
