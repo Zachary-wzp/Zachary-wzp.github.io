@@ -19,6 +19,7 @@ Education
 
 Work experience
 ======
+* 2021.09 to 2024.06: Research Assistant, 
 * 2022.12 to 2023.06: Intern, Economic & Technology Research Institute of State Grid Shandong Electric Power Company
 * 2022.07 to 2022.09: Intern, China Railway Design Corporation
 * 2021.06 to 2021.09: Intern, Longfor Group Holdings Limited
