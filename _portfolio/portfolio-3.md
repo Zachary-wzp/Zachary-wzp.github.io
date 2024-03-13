@@ -15,6 +15,7 @@ National Grid Corporation Science and Technology Project, 5200-202216099A-1-1-ZN
 * Implement thermal performance prediction and rule extraction for hydronic thermal activated envelopes based on machine learning and eXplainable AI (Python).
 * Develop thermal performance prediction software for hydronic thermal activated envelopes based on Python.
 * Develop green design evaluation system for substation based on AHP and FCE (MATLAB).
+* Develop green substation evaluation software (MATLAB).
 
 <img src='/images/portfolios/NGCSTP/NGCSTP_6.png' width='600'>
 
