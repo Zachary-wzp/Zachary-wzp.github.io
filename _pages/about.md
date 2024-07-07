@@ -1,4 +1,4 @@
----
+j---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- I am an incoming PhD student at [Syracuse University](https://www.syracuse.edu/), [MAE](https://ecs.syracuse.edu/academics/mechanical-and-aerospace-engineering). Fortunately, I will be supervised by Prof. [Bing Dong](https://ecs.syracuse.edu/faculty-staff/bing-dong) of [BEST Lab](https://bestlab.syr.edu/) from Department of Mechanical & Aerospace Engineering, Syracuse University. I received my M.Eng. degree in [Smart Building](http://tiei.tju.edu.cn/) at Tianjin University, supervised by Prof. [Juanli Guo](http://t-arch.tju.edu.cn/info/2143/1125.htm) of the [Tianjin Key Laboratory of Architectural Physics and Environmental Technology](http://arch.tju.edu.cn/info/1233/1810.htm); and my B.Eng. degree in [College of Civil Engineering](http://civil.hfut.edu.cn/) at Hefei University of Technology supervised by Prof. [Yalin Zhu](http://civil.hfut.edu.cn/2021/0407/c8385a261299/page.htm) in 2021.
+# Welcome!
+- I am a Ph.D. student supervised by Prof.[Bing Dong](https://ecs.syracuse.edu/faculty-staff/bing-dong) of [BEST Lab](https://bestlab.syr.edu/) from [Department of Mechanical & Aerospace Engineering](https://ecs.syracuse.edu/academics/mechanical-and-aerospace-engineering) at [Syracuse University](https://www.syracuse.edu/).
+- I received my M.Eng. degree in [Smart Building](http://tiei.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Juanli Guo](http://t-arch.tju.edu.cn/info/2143/1125.htm) of the [Tianjin Key Laboratory of Architectural Physics and Environmental Technology](http://arch.tju.edu.cn/info/1233/1810.htm) in 2024; and my B.Eng. degree in [College of Civil Engineering](http://civil.hfut.edu.cn/) at [Hefei University of Technology](https://www.hfut.edu.cn/) supervised by Prof. [Yalin Zhu](http://civil.hfut.edu.cn/2021/0407/c8385a261299/page.htm) in 2021.
 - I am proficient in EnergyPlus, Rhino & Grasshopper, MATLAB, Python and R, and related building simulations, and have some experience in FEM with COMSOL Multiphysics.
-- My current research interest is on building simulation and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
-- I have published 5 journal papers, and have 2 more journal papers and 2 invention patent in the review stage. Meanwhile, I have won several competitions. I expect to graduate in June 2024 and am looking for a Ph.D. position to further my studies!
+- My current research interest lies on on building performance simulation, model predictive control and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
 
 Recent news
 ======
