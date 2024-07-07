@@ -14,11 +14,13 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Smart Builing, Tianjin University, 2024 (expected)
-* B.Eng. in Civil Engineering, Hefei University of Technology, 2021
+* Ph.D. in Mechanical Engineering, Syracuse University, *08/2024-Present*
+* M.Eng. in Smart Building, Tianjin University, *09/2021-06/2024*
+* B.Eng. in Civil Engineering, Hefei University of Technology, *09/2017-06/2021*
 
 Work experience
 ======
+* 2024.08 to present: Research Assistant, BEST Lab at Syracuse University
 * 2021.09 to 2024.06: Research Assistant, Tianjin Key Laboratory of Architectural Physics and Environmental Technology
 * 2022.12 to 2023.06: Intern, Economic & Technology Research Institute of State Grid Shandong Electric Power Company
 * 2022.07 to 2022.09: Intern, China Railway Design Corporation
@@ -29,6 +31,7 @@ Research interests
 * AI Applications in Built Environment
 * High-performance Building Envelopes
 * Building Performance Simulation
+* Building Control
 * Finite Element Simulation
 * Machine Learning
 * Deep Learning
@@ -37,8 +40,8 @@ Research interests
 Selected Publications
 ======
 * Guo, J., **Wang, Z.**, Jin, Y., Li, M., and Chen, Q. Predicting and extracting thermal behavior rules of hydronic thermal barrier with interpretable ensemble learning in the heating season, *Energy and Buildings* (2023), doi: https:/doi.org/10.1016/j.enbuild.2023.113699 (Co-first Author)
+* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, *Journal of Building Engineering* (2024), doi: https://doi.org/10.1016/j.jobe.2024.110097 (First Author in Students)
 * Guo, J., **Wang, Z.**, Li, M. and Jin, Y. Uncertainty quantification and sensitivity analysis of energy consumption in substation buildings at the planning stage, *Journal of Building Performance Simulation* (2022), doi: https://doi.org/10.1080/19401493.2022.2141881 (First Author in Students)
-* Guo, J., **Wang, Z.**, Jin, Y., Zhao, W., Li, M., Feng, H.and Chen, Q. Machine learning-assisted assessment and quantitative prediction of the effect of joint tolerances on thermal bridges in precast elements, *Journal of Building Engineering* (2023, Under Review) (First Author in Students)
   
 Selected Awards
 ======
