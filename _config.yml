@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhoupeng Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhoupeng (Zachary) Wang"
-description              : &description "A Ph.D. student at Syracuse University"
+description              : &description "A master student at Tianjin University"
 url                      : https://Zachary-wzp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zachary-wzp/Zachary-wzp.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhoupeng (Zachary) Wang"
   avatar           : "ZhoupengWang.png"
-  bio              : "A Ph.D. student at Syracuse University"
-  location         : "Syracuse, USA"
+  bio              : "A master student at Tianjin University"
+  location         : "Tianjin, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LeJdiZ8AAAAJ&hl=zh-CN&oi=sra"
-  email            : "zwang511@syr.edu"
+  email            : "wangzhoupeng@tju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhoupeng-Wang"
   uri              :
   bitbucket        :
