@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. student supervised by Prof.[Bing Dong](https://ecs.syracuse.edu/faculty-staff/bing-dong) of [BEST Lab](https://bestlab.syr.edu/) from [Department of Mechanical & Aerospace Engineering](https://ecs.syracuse.edu/academics/mechanical-and-aerospace-engineering) at [Syracuse University](https://www.syracuse.edu/).
 - I received my M.Eng. degree in [Smart Building](http://tiei.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Juanli Guo](http://t-arch.tju.edu.cn/info/2143/1125.htm) of the [Tianjin Key Laboratory of Architectural Physics and Environmental Technology](http://arch.tju.edu.cn/info/1233/1810.htm) in 2024; and my B.Eng. degree in [College of Civil Engineering](http://civil.hfut.edu.cn/) at [Hefei University of Technology](https://www.hfut.edu.cn/) supervised by Prof. [Yalin Zhu](http://civil.hfut.edu.cn/2021/0407/c8385a261299/page.htm) in 2021.
-- I am proficient in EnergyPlus, Rhino & Grasshopper, MATLAB, Python and R, and related building simulations, and have some experience in FEM with COMSOL Multiphysics.
-- My current research interest lies on building performance simulation, model predictive control and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
+- I am proficient in EnergyPlus, Design Builder, Rhino & Grasshopper, MATLAB, Python and R, and related building simulations, and have some experience in FEM with COMSOL Multiphysics.
+- My current research interest lies on building performance simulation and high-performance building envelopes. My broad research interests include model-based and data-driven performance enhancement for buildings.
 
 Recent news
 ======
