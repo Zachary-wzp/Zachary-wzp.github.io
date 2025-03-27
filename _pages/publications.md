@@ -29,3 +29,4 @@ author_profile: true
 
 ## Patent
 1.	Guo, J., **Wang, Z.**, Jin, Y. and Wang, J. A hydronic Thermo-active building system thermal performance prediction and mechanism extraction method and device. *China National Intellectual Property Administration*, Chinese Patent Application Number: 202310813950.5. (First Author in Students)
+2.	Guo, J., Zhao, W., Jin, Y., Shu, Z. and **Wang, Z.** Evaluation Model for Typical Prefabricated Shear Wall Thermal Bridges. *China National Intellectual Property Administration*, Chinese Patent Application Number: 202410227749.3.
